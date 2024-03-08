@@ -1,6 +1,7 @@
 "use client";
 
 import { UserButton } from "@clerk/nextjs";
+import { Plus } from "lucide-react";
 
 export const Navbar = () => {
   return (
